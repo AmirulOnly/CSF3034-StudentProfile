@@ -17,6 +17,8 @@ public class StudentProfile {
         System.out.println("Name: Muhammad Amirul Haziq");
         System.out.println("Student ID: S86161D");
         System.out.println("Programme: Bachelor of Software Engineering");
+        System.out.println("Semester: Semester 1");
+        System.out.println("Favourite Language: Java");
     }
     
 }
